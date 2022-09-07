@@ -8,7 +8,7 @@ Name | GitHub
 -- | --
 Alexander Shanmugam  | [@alexfhnw](https://github.com/alexfhnw)
 Gabriel Torres Gamez | [@gabrieltorresgamez](https://github.com/gabrieltorresgamez)
-Haris Alic 
+Haris Alic | [@hariveliki](https://github.com/hariveliki)
 Si Ben Tran | [@7ben18](https://github.com/7ben18)
 
 ## Challenge Taskboard
