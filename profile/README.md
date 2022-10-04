@@ -14,7 +14,7 @@ Si Ben Tran | [@7ben18](https://github.com/7ben18)
 ## Documentation
 Hier geht es zur Dokumentation der Challenge
 
-[Link zur Doku](https://github.com/Immobilienrechner-Challenge/docs/wiki)
+[Link zur Doku](https://github.com/Immobilienrechner-Challenge/docs)
 
 ## Challenge Taskboard
 Hier geht es zum Challenge Taskboard mit allen Tasks und Issues
