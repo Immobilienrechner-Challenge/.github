@@ -11,7 +11,7 @@ Gabriel Torres Gamez | [@gabrieltorresgamez](https://github.com/gabrieltorresgam
 Haris Alic | [@hariveliki](https://github.com/hariveliki)
 Si Ben Tran | [@7ben18](https://github.com/7ben18)
 
-## Documentation
+## Dokumentation
 Hier geht es zur Dokumentation der Challenge
 
 [Link zur Doku](https://github.com/Immobilienrechner-Challenge/docs)
